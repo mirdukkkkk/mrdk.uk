@@ -25,7 +25,7 @@ This is as simple as it gets! Just:
 6. Run it using `yarn run preview`
 7. After all these steps, you can access the site via https://localhost:4750
 
-**If you don't want to go through all those steps**, you can just check out the site at https://mirdukkkkk.space
+**If you don't want to go through all those steps**, you can just check out the site at https://mrdk.uk/
 
 ## Screenshots
 ![Desktop](./docs/images/screenshots/desktop.png)
